@@ -1,0 +1,179 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Arizonia';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Arizonia Regular'), local('Arizonia-Regular'), url(https://gstatic.loli.net/s/arizonia/v11/neIIzCemt4A5qa7mv5WPFqwKUQ.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arizonia';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Arizonia Regular'), local('Arizonia-Regular'), url(https://gstatic.loli.net/s/arizonia/v11/neIIzCemt4A5qa7mv5WBFqw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+.shop-header {
+    background: linear-gradient(to right, #0b486b, #f56217); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.shop-background {
+    background: linear-gradient(to right, #0b486b, #f56217); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.Shop-prices {
+    color: #e0dc4eba!important;
+}
+
+
+.mo-color {
+    color: #c9d4de!important
+}
+
+
+.shabi {
+    color: #343a40!important;
+    /*text-transform: uppercase!important;*/
+}
+
+.block-title1 {
+    color: #fff;
+    flex: 1 1 auto;
+    min-height: 1.75rem;
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 900;
+    line-height: 1.75;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #e6e6e6;
+    min-height: 1.562rem;
+    min-width: 1.562rem;
+    border: .062rem solid #e0e0e0;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f7f7f7;
+    border: .062rem solid #efefef;
+}
+::selection {
+    background: #ddd;
+    color: #000;
+    text-shadow: none;
+}
+
+::-webkit-scrollbar {
+    width: .625rem;
+    height: .4rem;
+    overflow: auto;
+}
+
+.text-dark {
+    font-family: 'Arizonia', cursive;
+    font-size: 3rem!important;
+}
+
+.hjjg {
+    color: #000000;
+}
+
+.v2board-plan-features {
+    font-size: 15px!important;
+    font-weight: 600!important;
+}
+
+.v2board-plan-features>li:before {
+    color: #2a2e36!important;
+}
+
+/* 解锁 */
+.v2board-plan-features> .js:before {
+    content: "\f3c1";
+}
+
+/* 信息 */
+.v2board-plan-features> .xx:before {
+    content: "\F05A";
+}
+
+/* 不支持 */
+.v2board-plan-features> .bzc:before {
+    content: "\f057";
+}
+
+/* 警告 */
+.v2board-plan-features> .jg:before {
+    content: "\f06a";
+}
+
+/* 流量重置 */
+.v2board-plan-features> .cz:before {
+    content: "\f2f1";
+}
+
+/* 速度 */
+.v2board-plan-features> .sd:before {
+    content: "\f3fd";
+}
+
+/* 节点 */
+.v2board-plan-features> .jd:before {
+    content: "\f0e8";
+}
+
+/* 流量 */
+.v2board-plan-features> .ll:before {
+    content: "\f1c0";
+}
+
+/* 工单 */
+.v2board-plan-features> .gd:before {
+    content: "\f3ff";
+}
+
+/* 设备 */
+.v2board-plan-features> .phone:before {
+    content: "\f3cd";
+}
+
+/* 苹果 */
+.v2board-plan-features> .iphone:before {
+    content: "\f5d1";
+}
+.art-font {
+    font-family: 'Arizonia', cursive;
+    color: #495057!important;
+    font-size: 16px;
+}
+
+input:-webkit-autofill { box-shadow: 0 0 0px 1000px white inset !important;}
+
+.form-control.form-control-alt {
+    background-color: #fff!important;
+}
+
+.nav-main-link {
+    font-weight: 600;
+}
+
+.nav-main-heading {
+    font-weight: 600;
+}
+
+.bg-header-dark {
+    background-color: #072460!important;
+}
+
+a>.block-header>.block-title {
+    font-weight: 600!important;
+}
+div>.font-w600 {
+    color: #343a40!important;
+}
+
