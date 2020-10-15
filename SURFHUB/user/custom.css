@@ -176,4 +176,7 @@ a>.block-header>.block-title {
 div>.font-w600 {
     color: #343a40!important;
 }
-
+.font-size-sm> .text-sm-right {
+    font-weight: 600!important;
+    color: #343a40!important;
+}
