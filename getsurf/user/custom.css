@@ -30,10 +30,10 @@
     color: #e0dc4eba!important;
 }
 
-
-.mo-color {
-    color: #c9d4de!important
+.btn.btn-rounded {
+    border-radius: 0.2rem!important;
 }
+
 
 
 .shabi {
@@ -180,3 +180,110 @@ div>.font-w600 {
     font-weight: 600!important;
     color: #343a40!important;
 }
+
+
+
+
+.reset-3c756112--hintIcon-7c7981dd--paragraph-ae3112d0 {
+    top: 14px;
+    left: 16px;
+    margin: 0;
+    display: block;
+    padding: 0;
+    position: absolute;
+    font-size: 24px;
+}
+.blockParagraph-544a408c {
+    color: inherit;
+    margin: 0;
+    position: relative;
+    margin-bottom: 24px;
+}
+.reset-3c756112--blockHint-a7403a60 {
+    width: 100%;
+    margin: 0;
+    display: block;
+    padding: 24px 24px calc(1px / 10) 50px;
+    position: relative;
+    margin-top: 32px;
+    border-left: 4px solid;
+    border-radius: 3px;
+    margin-bottom: 32px;
+    background-color: #F5F7F9;
+}
+
+@media only screen and (max-width: 800px) {
+    .docsimg {
+        height: auto;
+        width: 100%;
+        
+    }
+}
+
+
+.btn-copy {
+    color: #fdfdff;
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+    background-color: #00a2ff;
+    border-color: #fff;
+}
+.btn-hero-primary {
+    text-transform: none!important;
+}
+
+.icon-info {
+    color: #3884ff!important;
+}
+
+
+
+.note {
+    font-size: 14px;
+    font-weight: 600;
+    border: initial;
+    border-left: 4px solid #3884ff;
+    color: #4c4948;
+    background: #eef7fa;
+    position: relative;
+    margin: 0 0 1rem;
+    padding: 24px;
+    border-radius: 3px;
+    padding-left: 2.65rem;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+
+.note.warning {
+    border-left-color: #e04f1a;
+    background: #ffd9d9;
+}
+
+
+.note> span:before{
+    font-family: Font Awesome\ 5 Free;
+    position: absolute;
+    top: calc(50% - .8rem);
+    left: .7rem;
+    font-size: larger;
+}
+
+
+.note> .war:before {
+    content: "\f071";
+    color: #f5222d;
+}
+
+
+.note> .info:before {
+    content: "\f06a";
+    color: #3b5998;
+}
+
+
+
+
+
